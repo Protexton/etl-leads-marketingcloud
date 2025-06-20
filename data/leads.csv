@@ -1,0 +1,11 @@
+lead_id,email,campaign,source,score,created_at
+1,user1@example.com,summer_sale,facebook,72,2024-01-07
+2,user2@example.com,winter_boost,google,85,2024-01-14
+3,user3@example.com,summer_sale,linkedin,43,2024-01-21
+4,user4@example.com,winter_boost,instagram,90,2024-01-28
+5,user5@example.com,summer_sale,email,66,2024-02-04
+6,user6@example.com,winter_boost,facebook,58,2024-02-11
+7,user7@example.com,summer_sale,google,77,2024-02-18
+8,user8@example.com,winter_boost,linkedin,33,2024-02-25
+9,user9@example.com,summer_sale,instagram,88,2024-03-03
+10,user10@example.com,winter_boost,email,69,2024-03-10
